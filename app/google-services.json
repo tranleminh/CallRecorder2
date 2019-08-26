@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631361943609",
+    "firebase_url": "https://callrecorder2-fc1d2.firebaseio.com",
+    "project_id": "callrecorder2-fc1d2",
+    "storage_bucket": "callrecorder2-fc1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631361943609:android:8dbdb309d1d79643",
+        "android_client_info": {
+          "package_name": "ema.functionality.callrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631361943609-2fh6rda2kh9bgj08q7hkruvdf49g4hsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ema.functionality.callrecorder",
+            "certificate_hash": "f3ea736b438b3505a30f45d913acefbc0dfd3e8d"
+          }
+        },
+        {
+          "client_id": "631361943609-62hosn3r6qhba8dlfi2op7ldt05cil35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcgR8MqZYlHp8efPsFtlVWsXI6g4uVp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631361943609-62hosn3r6qhba8dlfi2op7ldt05cil35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

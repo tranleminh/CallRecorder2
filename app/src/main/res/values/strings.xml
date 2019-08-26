@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="hello_world">Hello world!</string> <string name="menu_settings">Settings</string> <string name="device_description">Disable the Force Stop button using Device Policy Manager API</string> <string name="device_admin_label">Device Admin</string>
+</resources>
